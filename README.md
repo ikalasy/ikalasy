@@ -4,7 +4,7 @@
 
 ### Cybersecurity Analyst&nbsp; ·&nbsp; Founder
 
-**Security and safety tools for people who don't have an IT department.**
+**Cybersecurity Student Learning By Performing**
 
 📍 &nbsp;Birmingham, Alabama &nbsp;•&nbsp; 🦉 &nbsp;WGU
 
@@ -70,7 +70,7 @@ The scanner runs on Node's own `tls`/`net`/`dns`. No third-party scan API, so no
 
 🟢 Live in production
 
-[**Site**](https://scanforge.net) &nbsp;·&nbsp; [**Repo**](https://github.com/ikalasy/scanforge)
+[**Try it →**](https://scanforge.net)
 
 </td>
 </tr>
@@ -82,18 +82,21 @@ The scanner runs on Node's own `tls`/`net`/`dns`. No third-party scan API, so no
 
 <div align="center">
 
-## 💭 &nbsp;How I Think About This Work
+## 🎯 &nbsp;Focus &amp; Goals
 
 </div>
 
-> **Security tools should never make the person using them feel stupid for not already knowing.**
-> Most of them do. That's a design failure, not a user failure.
+**Now** — Finishing my B.S. at WGU while running two products end to end: architecture, code,
+infrastructure, compliance, and the business side of both. Day to day that's TypeScript and Kotlin
+on the product side, and Windows Server, Active Directory, and endpoint management on the
+infrastructure side.
 
-The other half of that: if people might lean on your software in a bad moment, the software has to
-be honest about what it can't do. Red Whistle doesn't call 911 for you, and nobody watches your
-alerts — the app says exactly that, in those words, on the screen where it matters.
+**Next** — Security engineering and cloud security. I want to be in the room where the
+architecture gets decided, not the one auditing it eighteen months later.
 
-Shipping the caveat is part of shipping the feature.
+**How I got here** — Technical support and network management first, then security analysis, then
+building — because the tools I wanted to hand small businesses didn't exist at a price they could
+actually pay.
 
 <br>
 
@@ -103,21 +106,49 @@ Shipping the caveat is part of shipping the feature.
 
 ## 🛠️ &nbsp;Tech
 
+**Languages &amp; Product**
+
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-<br>
+<img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" />
+
+**Cloud &amp; Data**
+
 <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+**Homelab &amp; Enterprise Infrastructure**
+
+<img src="https://img.shields.io/badge/Windows_Server_2022-0078D6?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Group_Policy-1F2937?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/NTFS_Permissions-1F2937?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/DNS_%26_DHCP-1F2937?style=flat-square&logo=cloudflare&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Network_Security-1F2937?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Action1_Patch_Mgmt-FF6B00?style=flat-square&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
+<img src="https://img.shields.io/badge/Hyper--V-0078D6?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows11&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Jira_Service_Management-0052CC?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/VLANs_%26_Subnetting-1F2937?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" />
 
 </div>
 
@@ -145,7 +176,11 @@ Shipping the caveat is part of shipping the feature.
 
 <div align="center">
 
-### Building something that needs to be honest about its limits? Let's talk.
+### 💼 &nbsp;Hiring or Business Inquiries
+
+Open to **security engineering and analyst roles**, contract work, and partnerships.
+
+For ScanForge or Red Whistle business inquiries, same address.
 
 <a href="mailto:williambroberts13@gmail.com">
   <img src="https://img.shields.io/badge/williambroberts13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
