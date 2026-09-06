@@ -10,12 +10,22 @@
 
 <br>
 
+<a href="https://www.credly.com/badges/bcd4fc70-8939-4d94-ba45-3a138f0516b4/public_url">
+  <img src="https://img.shields.io/badge/CompTIA_A%2B-certified-C8202F?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA A+, certified September 2026" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Network%2B-in_progress-2F3630?style=flat-square&logo=comptia&logoColor=9AA58C" alt="CompTIA Network+, in progress" />
+&nbsp;
+<img src="https://img.shields.io/badge/Security%2B-in_progress-2F3630?style=flat-square&logo=comptia&logoColor=9AA58C" alt="CompTIA Security+, in progress" />
+
+<br>
+
 <a href="https://joinredwhistle.com">
   <img src="https://img.shields.io/badge/Red_Whistle-FF3B42?style=for-the-badge&logoColor=white" alt="Red Whistle" />
 </a>
 &nbsp;
-<a href="https://scanforge.net">
-  <img src="https://img.shields.io/badge/ScanForge-0EA5E9?style=for-the-badge&logoColor=white" alt="ScanForge" />
+<a href="https://whois.itskalasy.com">
+  <img src="https://img.shields.io/badge/Portfolio-C3F53A?style=for-the-badge&logoColor=black" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="mailto:williambroberts13@gmail.com">
@@ -86,7 +96,8 @@ The scanner runs on Node's own `tls`/`net`/`dns`. No third-party scan API, so no
 
 </div>
 
-**Now** — Finishing my B.S. at WGU while running two products end to end: architecture, code,
+**Now** — CompTIA A+ certified, with Network+ and Security+ next through WGU
+coursework. Finishing my B.S. at WGU while running two products end to end: architecture, code,
 infrastructure, compliance, and the business side of both. Day to day that's TypeScript and Kotlin
 on the product side, and Windows Server, Active Directory, and endpoint management on the
 infrastructure side.
