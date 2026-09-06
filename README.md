@@ -40,7 +40,7 @@
 
 <div align="center">
 
-## 🚧 &nbsp;What I'm Building
+## 🚧 &nbsp;What I've Built
 
 </div>
 
@@ -78,9 +78,7 @@ The scanner runs on Node's own `tls`/`net`/`dns`. No third-party scan API, so no
 
 **Passive only, by construction** — no exploitation code path exists
 
-🟢 Live in production
-
-[**Try it →**](https://scanforge.net)
+⚫ Retired — built, shipped, ran in production, now closed
 
 </td>
 </tr>
@@ -97,8 +95,8 @@ The scanner runs on Node's own `tls`/`net`/`dns`. No third-party scan API, so no
 </div>
 
 **Now** — CompTIA A+ certified, with Network+ and Security+ next through WGU
-coursework. Finishing my B.S. at WGU while running two products end to end: architecture, code,
-infrastructure, compliance, and the business side of both. Day to day that's TypeScript and Kotlin
+coursework. Finishing my B.S. at WGU while running Red Whistle end to end: architecture, code,
+infrastructure, compliance, and the business side. Day to day that's TypeScript and Kotlin
 on the product side, and Windows Server, Active Directory, and endpoint management on the
 infrastructure side.
 
@@ -191,7 +189,7 @@ actually pay.
 
 Open to **security engineering and analyst roles**, contract work, and partnerships.
 
-For ScanForge or Red Whistle business inquiries, same address.
+For Red Whistle business inquiries, same address.
 
 <a href="mailto:williambroberts13@gmail.com">
   <img src="https://img.shields.io/badge/williambroberts13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
